@@ -10,7 +10,7 @@ I allocate 60 minutes every week to help others taking on a problem that might b
 Most of my work is related with Node, Docker, React, Vue, TypeScript, PHP, Go, and Kubernetes.
 Whichever technology choice is not an issue for me, I can always move from one stack to another and dive deeper along the way.
 
-Feel free to reach me via [E-mail](adityapurwa@windowslive.com) or [LinkedIn](https://www.linkedin.com/in/adityapurwa/).
+Feel free to reach me via [E-mail](mailto:adityapurwa@windowslive.com) or [LinkedIn](https://www.linkedin.com/in/adityapurwa/).
 
 I speak English, Bahasa Indonesia, Bahasa Jawa. Currently learning Japanese, Korean, and German.
 
