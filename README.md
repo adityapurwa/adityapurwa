@@ -18,6 +18,5 @@ I speak English, Bahasa Indonesia, Bahasa Jawa. Currently learning Japanese, Kor
 
 ### Links
 
-- [Email](adityapurwa@windowslive.com)
 - [LinkedIn](https://www.linkedin.com/in/adityapurwa)
 - [Medium](https://medium.com/adityapurwa)
