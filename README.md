@@ -1,6 +1,7 @@
 ### Hi/Halo/こんにちは/안녕하세요 👋
 
-I'm Aditya - currently working as a full stack engineer at [Taxfix](https://taxfix.de).
+I'm Aditya - currently on a career break. Spending my time learning new things and mentoring. I solve business problems with my expertise, sometimes with technologies. Reach out to me for a consultation.
+
 I focus on making an impact with technologies, maximizing value and maintaining resource efficiency while doing so.
 I'm a musician, designer, writer, and illustrator when not dealing with code.
 
